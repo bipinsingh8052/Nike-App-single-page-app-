@@ -1,0 +1,12 @@
+.contain{
+    height: 400px;
+    width: 40%;
+    margin-right: 80px;
+    background-color: rgb(75, 211, 38);
+}
+img{
+    /* mix-blend-mode:color-burn; */
+    height: 100%;
+    width: 100%;
+    background-image:none;
+}
